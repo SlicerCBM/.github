@@ -14,4 +14,4 @@ SlicerCBM is under development at the
 at
 [The University of Western Australia](https://www.uwa.edu.au).
 
-![ISML Logo](ISML.gif)
+<a href="https://isml.ecm.uwa.edu.au"><img src="ISML.gif" alt="ISML Logo" style="width:190px;height:190px;"></a>
