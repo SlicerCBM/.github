@@ -2,7 +2,7 @@
 
 *Computational Biophysics for Medicine in 3D Slicer*
 
-[SlicerCBM](https://github.com/SlicerCBM/SlicerCBM)
+[SlicerCBM](https://slicercbm.org)
 is an extension for
 [3D Slicer](http://slicer.org)
 that provides tools for creating and solving
